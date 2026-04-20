@@ -1,0 +1,15 @@
+IMPORTANT: Place your resume PDF file here
+
+File name must be exactly: Riya_Goyal_Resume.pdf
+
+This will enable the "Download Resume" buttons on your portfolio website.
+
+Steps:
+1. Save your resume as "Riya_Goyal_Resume.pdf"
+2. Place it in this assets folder
+3. Delete this PLACE_RESUME_HERE.txt file
+4. Test the download buttons on your website
+
+For GitHub Pages deployment:
+- Make sure to commit and push the PDF file to your repository
+- The download will work automatically once deployed
